@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Majorapp</string>
+    <string name="welcome">Hello World revision 1!</string>
 </resources>
